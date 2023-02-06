@@ -5,3 +5,4 @@ class Solution:
 
 res = Solution()
 print(res.isPalindrome(121))
+print(res.isPalindrome(12))
