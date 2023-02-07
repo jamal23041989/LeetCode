@@ -14,8 +14,6 @@ class Solution:
         return num
 
 
-
-
 a = Solution()
 print(a.romanToInt("III"))
 print(a.romanToInt("LVIII"))
